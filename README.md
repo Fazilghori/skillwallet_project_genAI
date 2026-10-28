@@ -1,0 +1,1 @@
+# skillwallet_project_genAI
